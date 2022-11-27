@@ -1,0 +1,61 @@
+
+    * {background-color:lightcoral;}
+
+
+        /*esto modifica el h1*/
+
+
+    h1 {padding-top: 15px;}
+
+    h1 {padding-bottom: 15px;}
+
+    h1 {padding-left: 10px;}
+
+    h1 {padding-right: 10px;}
+
+    h1 {border: 10px;}
+
+    h1 {margin: 20px;}
+
+    h1 {border-style: solid;}
+
+    h1 {border-color: red;}
+
+
+        /*esto modifica el DIV*/
+
+    div {
+        
+        width: 400px;height: 150px;
+    
+        background-color: lightskyblue;
+    
+        border: 4px dotted;
+    
+        padding: 40px;
+
+        margin: 50px;
+
+        display:inline-table;
+
+        text-align: center;
+    
+    }
+
+    div p {
+
+        display: table-cell;
+
+        background-color: lightskyblue;
+
+        vertical-align: middle;
+
+        font-family: serif;
+ 
+        font-size: 40px;
+        
+        text-transform: uppercase;
+
+        color: blueviolet;   
+
+    }
